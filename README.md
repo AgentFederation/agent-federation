@@ -75,6 +75,8 @@ Agent 已经能写代码、制作内容、调用工具。但持续运营还需�
 
 ## 文档与参与
 
+- [愿景概念图：自主组织、自动化公司与分布式协作](docs/concepts.md)
+
 - [组织模型与概念辨析](docs/organization-model.md)
 - [架构、模块与运行机制](docs/architecture.md)
 - [首个 POC：场景、验收与技术难点](docs/poc.md)
