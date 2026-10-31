@@ -2,7 +2,7 @@
 
 状态：V3 设计基线，未实现。图中模块表示逻辑职责，不要求拆成独立服务。
 
-![组织架构 V3](assets/architecture-v3.png)
+![组织架构 V3](assets/architecture-v3.svg)
 
 ## 模块职责
 
@@ -48,4 +48,4 @@ runtime 的会话 ID、提示词形式与工具格式留在适配器中。切换
 
 ## 图版本
 
-V3 固定保留当前图示；后续修改另建版本。PNG 用于 README 展示，[SVG](assets/architecture-v3.svg)用于缩放与编辑。当前图表达设计，尚无运行结果。
+V3 固定保留当前图示；后续修改另建版本。[SVG](assets/architecture-v3.svg)用于 README 轻量展示与缩放，PNG 保留为备用。当前图表达设计，尚无运行结果。
